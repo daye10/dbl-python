@@ -10,7 +10,7 @@ An unofficial Python 3 client for Dragon Ball Legends.
 ## Installation
 
 ```
-git clone https://github.com/jiru/dbl-python
+git clone https://github.com/daye10/dbl-python
 cd dbl-python
 python -m venv env
 source env/bin/activate
