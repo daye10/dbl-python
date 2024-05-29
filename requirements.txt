@@ -1,0 +1,5 @@
+aiosocks==0.2.6
+async-timeout==4.0.3
+PySocks==1.7.1
+python-socks==2.4.3
+discord==2.3.2
